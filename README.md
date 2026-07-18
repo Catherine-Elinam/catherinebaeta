@@ -2,7 +2,7 @@
 
 I'm currently pursuing a Master's in Analytics (Statistical Modeling) at Northeastern University.
 
-I enjoy exploring how data, analytics, and AI can be used to solve real-world problems. My interests span machine learning, business analytics, product analytics, healthcare analytics, and data visualization. I'm always looking for opportunities to learn new tools, work on challenging projects, and turn data into meaningful insights.
+I enjoy exploring how data, analytics, and AI can be used to solve real-world problems. My interests span machine learning, business analytics, product analytics, healthcare analytics, and data visualization. I enjoy learning new tools, taking on challenging projects, and using data to answer meaningful questions.
 
 ## What I'm Working On
 
