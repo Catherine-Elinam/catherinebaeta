@@ -6,24 +6,28 @@ I enjoy exploring how data, analytics, and AI can be used to solve real-world pr
 
 ## What I'm Working On
 
-- Building machine learning and analytics projects
-- Expanding my skills in AI and data engineering
-- Growing my GitHub portfolio with graduate and personal projects
-- Learning more about cloud technologies and modern analytics tools
+- Building end-to-end analytics and machine learning projects
+- Learning more about data engineering and cloud technologies
+- Documenting graduate and personal projects on GitHub
+- Exploring practical applications of AI across different industries
+
+---
 
 ## Technical Skills
 
 **Languages:** Python, SQL, R, Java, C++
 
-**Analytics:** Statistical Modeling, Machine Learning, Data Analysis, Feature Engineering, Model Evaluation
+**Analytics:** Statistical Modeling, Machine Learning, SQL, Data Analysis, Feature Engineering, Model Evaluation
 
 **Visualization:** Tableau, Power BI, Excel
 
 **Tools:** Git, GitHub, Jupyter Notebook, MySQL
 
-## Projects
+---
 
-I'm currently documenting and publishing projects, including:
+## Current Portfolio
+
+I'm currently documenting and publishing projects including:
 
 - Credit Card Fraud Detection
 - Healthcare Analytics (NAMCS)
